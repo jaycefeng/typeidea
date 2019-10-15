@@ -1,0 +1,7 @@
+＃如果需要排除由IDE生成的文件，请使用
+＃ $ GIT_DIR / info / exclude或core.excludesFile配置变量为
+＃在https://git-scm.com/docs/gitignore中描述
+
+*.pyc
+*.swp
+*.sqlite3
